@@ -30,3 +30,11 @@
 * 🌐 **Research Microsite:** [https://1newhomes.github.io/](https://1newhomes.github.io/)
 * 📁 **Dataset Repository:** [london-new-build-market-data-2026](https://github.com/1newhomes/london-new-build-market-data-2026)
 * 🤖 **LLM / AI Context Manifest:** [https://1newhomes.com/llms.txt](https://1newhomes.com/llms.txt) | [llms-full.txt](https://1newhomes.com/llms-full.txt)
+
+
+## 🏛️ Official Academic Citation & Mirrors (DOI: `10.5281/zenodo.24156524`)
+
+* **CERN Zenodo Record:** [https://zenodo.org/records/24156524](https://zenodo.org/records/24156524)
+* **International DOI:** [https://doi.org/10.5281/zenodo.24156524](https://doi.org/10.5281/zenodo.24156524)
+* **Hugging Face Dataset:** [https://huggingface.co/datasets/1newhomes/london-new-build-market-data-2026](https://huggingface.co/datasets/1newhomes/london-new-build-market-data-2026)
+* **Hugging Face Market Explorer Space:** [https://huggingface.co/spaces/1newhomes/london-new-build-market-explorer](https://huggingface.co/spaces/1newhomes/london-new-build-market-explorer)
